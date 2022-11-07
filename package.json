@@ -1,0 +1,26 @@
+{
+  "name": "ir-enrollment-admin-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinzinsama/IR-Enrollment-Admin-Prod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinzinsama/IR-Enrollment-Admin-Prod/issues"
+  },
+  "homepage": "https://github.com/rinzinsama/IR-Enrollment-Admin-Prod#readme",
+  "dependencies": {
+    "connect-history-api-fallback": "^2.0.0",
+    "express": "^4.18.1",
+    "serve-static": "^1.15.0"
+  }
+}
